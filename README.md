@@ -26,4 +26,4 @@
 
 * step-8--> now use this final command to get signed APK with aligned , if u will get zipalign internal external command error copy zipalign.exe to current folder from C:\Users\USER_NAME\AppData\Local\Android\sdk\build-tools\22.0.1 
 
-### $ zipalign -v 4 android-release-unsigned.apk OlebEvent.apk
+### $ zipalign -v 4 android-release-unsigned.apk DemoApp.apk
